@@ -1,0 +1,5 @@
+**/chuck/**/*.*
+**/conbine/**/*.ts
+**/.vscode
+**/venv
+**/__pycache__
